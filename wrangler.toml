@@ -1,0 +1,5 @@
+name = "memrl-demo"
+compatibility_date = "2025-03-01"
+
+[site]
+bucket = "./dist"
